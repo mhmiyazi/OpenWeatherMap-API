@@ -14,7 +14,7 @@ A simple designed No refreshing OpenWeatherMap API with database.
 </blockquote>
 # Feature
 <blockquote>
-<ul type="square">
+<ul>
   <li>About 200k City search available</li>
   <li>Alert For empty Search</li>
   <li>Nice Data Field</li>
